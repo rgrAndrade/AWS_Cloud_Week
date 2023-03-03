@@ -6,7 +6,7 @@ BootCamp chat serverless na nuvem.
 | -------------  | --- |
 | :sparkles: Nome        | **AWS Cloud Week**
 | :label: Tecnologias | AWS, AWS Lambda Functions, React, Amplify, DynamoDB,  Websocket API  (tecnologias utilizadas)
-| :rocket: URL         | Em Desenvolvimento
+| :rocket: URL         | https://main.d2mei3830g6ape.amplifyapp.com/
 | :fire: Desafio     | https://lp.dio.me/aws-cloud-week/
 
  ![af22d4a0-463f-48c5-a70c-4961d5e618d0](https://user-images.githubusercontent.com/104234513/222004997-b63de2d4-8a51-48f7-990e-13f00e14e618.png#vitrinedev)
